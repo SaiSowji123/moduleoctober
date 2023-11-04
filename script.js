@@ -83,7 +83,7 @@ document.addEventListener("DOMContentLoaded", function () {
         },
         {
             "name": "Paneer Tikka",
-            "imageSrc": https://source.unsplash.com/random?paneerTikka
+            "imageSrc": "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1017&q=80",
             "time": "40 min",
             "type": "veg",
             "isLiked": false,
@@ -107,7 +107,7 @@ document.addEventListener("DOMContentLoaded", function () {
         },
         {
             "name": "Fish Tacos",
-            "imageSrc": https://source.unsplash.com/random?fishTacos
+            "imageSrc": "https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
             "time": "35 min",
             "type": "non-veg",
             "isLiked": false,
