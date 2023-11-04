@@ -83,7 +83,7 @@ document.addEventListener("DOMContentLoaded", function () {
         },
         {
             "name": "Paneer Tikka",
-            "imageSrc": "https://source.unsplash.com/random?paneerTikka",
+            "imageSrc": https://source.unsplash.com/random?paneerTikka
             "time": "40 min",
             "type": "veg",
             "isLiked": false,
@@ -107,7 +107,7 @@ document.addEventListener("DOMContentLoaded", function () {
         },
         {
             "name": "Fish Tacos",
-            "imageSrc": "https://source.unsplash.com/random?fishTacos",
+            "imageSrc": https://source.unsplash.com/random?fishTacos
             "time": "35 min",
             "type": "non-veg",
             "isLiked": false,
